@@ -1,4 +1,4 @@
-<img alt="SNQ-2001" src="header.svg" width="98.4%" height="100%"><br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raychel-310&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raychel-310&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)<br>
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
