@@ -1,7 +1,7 @@
 <svg class="SNQ-2001" fill="none" viewBox="0 0 675 75" width="675" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
                 @-webkit-keyframes typing { 
                     from { width: 0; } 
                 }
@@ -16,10 +16,10 @@
                 }
 
                 h1 {
-                    font: bold 300% Consolas, Monaco,　 monospace;
+                    font: bold 250% Consolas, Monaco, monospace; /* フォントサイズを小さく調整 */
                     border-right: .2em solid white;
-                    width: 16.5em; 
-                    width: 19.2ch;
+                    width: auto; /* 幅を自動調整に変更 */
+                    max-width: 100%; /* 最大幅をコンテナの100%に設定 */
                     margin: 0.05em 1.15em;
                     padding-top: 4px;
                     white-space: nowrap;
@@ -28,10 +28,11 @@
                     color: #26e10b;
                     text-shadow: #26e10b 0px 0 5px;
                 }
-			</style>
+            </style>
             <div class="container">
                 <h1>Welcome to my Github!</h1>
             </div>
-		</div>
-	</foreignObject>
+        </div>
+    </foreignObject>
 </svg>
+
