@@ -1,7 +1,8 @@
 <img alt="SNQ-2001" src="header.svg?" width="98.4%" height="100%"><br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raychel-310&theme=2077)
 ### Programming Languages, Frameworks, and Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,python,c,c++,ruby,rails,aws,git,github,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,python,c,cpp,ruby,rails,aws,git,github,vscode" />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raychel-310&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)<br>
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
 [![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
