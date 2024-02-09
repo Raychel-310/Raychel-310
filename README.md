@@ -3,6 +3,8 @@
 ### Programming Languages, Frameworks, and Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,python,c,cpp,ruby,rails,aws,git,github,vscode" />
 
+### Status
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raychel-310&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)<br>
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raychel-310&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
